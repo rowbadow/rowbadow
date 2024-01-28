@@ -5,7 +5,7 @@ Hi, I'm Rowan and this is my github profile 👋
 ### Find me at 👇
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
+  <a href="https://www.linkedin.com/in/rowanbithal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
