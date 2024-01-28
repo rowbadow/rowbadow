@@ -1,5 +1,14 @@
-### Hi, I'm Rowan and this is my github profile 👋
+Hi, I'm Rowan and this is my github profile 👋
+========================================================================================================================================
 ## I am currently working on front end projects to improve on my React and Javascript skills
+
+### Find me at 👇
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/stefan-topalovic-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **rowbadow/rowbadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
