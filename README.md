@@ -1,6 +1,6 @@
 Hi, I'm Rowan and this is my github profile 👋
 ========================================================================================================================================
-## I am currently working on front end projects to improve on my React and Javascript skills
+## <p>I am currently working on front end projects to improve on my React and Javascript skills</p>
 
 ### Find me at 👇
 
