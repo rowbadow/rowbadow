@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Rowan and this is my github profile 👋
+## I am currently working on front end projects to improve on my React and Javascript skills
 
 <!--
 **rowbadow/rowbadow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
